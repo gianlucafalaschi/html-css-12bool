@@ -266,3 +266,127 @@
 .col-offset-11 {
     margin-left: calc((100% / 12) * 11);
 }
+
+
+/*----------------
+    OFFSET per SM >= 576px
+-----------------*/
+
+@media screen and (min-width: 576px) {
+    
+    .col-offset-sm-1 {
+        margin-left: calc((100% / 12) * 1);
+    }
+    .col-offset-sm-2 {
+        margin-left: calc((100% / 12) * 2);
+    }
+    .col-offset-sm-3 {
+        margin-left: calc((100% / 12) * 3);
+    }
+    .col-offset-sm-4 {
+        margin-left: calc((100% / 12) * 4);
+    }
+    .col-offset-sm-5 {
+        margin-left: calc((100% / 12) * 5);
+    }
+    .col-offset-sm-6 {
+        margin-left: calc((100% / 12) * 6);
+    }
+    .col-offset-sm-7 {
+        margin-left: calc((100% / 12) * 7);
+    }
+    .col-offset-sm-8 {
+        margin-left: calc((100% / 12) * 8);
+    }
+    .col-offset-sm-9 {
+        margin-left: calc((100% / 12) * 9);
+    }
+    .col-offset-sm-10 {
+        margin-left: calc((100% / 12) * 10);
+    }
+    .col-offset-sm-11 {
+        margin-left: calc((100% / 12) * 11);
+    }
+}
+
+/*----------------
+    OFFSET per MD >= 768px
+-----------------*/
+
+@media screen and (min-width: 768px) {
+    
+    .col-offset-md-1 {
+        margin-left: calc((100% / 12) * 1);
+    }
+    .col-offset-md-2 {
+        margin-left: calc((100% / 12) * 2);
+    }
+    .col-offset-md-3 {
+        margin-left: calc((100% / 12) * 3);
+    }
+    .col-offset-md-4 {
+        margin-left: calc((100% / 12) * 4);
+    }
+    .col-offset-md-5 {
+        margin-left: calc((100% / 12) * 5);
+    }
+    .col-offset-md-6 {
+        margin-left: calc((100% / 12) * 6);
+    }
+    .col-offset-md-7 {
+        margin-left: calc((100% / 12) * 7);
+    }
+    .col-offset-md-8 {
+        margin-left: calc((100% / 12) * 8);
+    }
+    .col-offset-md-9 {
+        margin-left: calc((100% / 12) * 9);
+    }
+    .col-offset-md-10 {
+        margin-left: calc((100% / 12) * 10);
+    }
+    .col-offset-md-11 {
+        margin-left: calc((100% / 12) * 11);
+    }
+}
+
+/*----------------
+    OFFSET per LG >= 992px
+-----------------*/
+
+@media screen and (min-width: 992px) {
+    
+    .col-offset-lg-1 {
+        margin-left: calc((100% / 12) * 1);
+    }
+    .col-offset-lg-2 {
+        margin-left: calc((100% / 12) * 2);
+    }
+    .col-offset-lg-3 {
+        margin-left: calc((100% / 12) * 3);
+    }
+    .col-offset-lg-4 {
+        margin-left: calc((100% / 12) * 4);
+    }
+    .col-offset-lg-5 {
+        margin-left: calc((100% / 12) * 5);
+    }
+    .col-offset-lg-6 {
+        margin-left: calc((100% / 12) * 6);
+    }
+    .col-offset-lg-7 {
+        margin-left: calc((100% / 12) * 7);
+    }
+    .col-offset-lg-8 {
+        margin-left: calc((100% / 12) * 8);
+    }
+    .col-offset-lg-9 {
+        margin-left: calc((100% / 12) * 9);
+    }
+    .col-offset-lg-10 {
+        margin-left: calc((100% / 12) * 10);
+    }
+    .col-offset-lg-11 {
+        margin-left: calc((100% / 12) * 11);
+    }
+}
