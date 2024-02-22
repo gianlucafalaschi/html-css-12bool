@@ -1,0 +1,32 @@
+/*----------------
+    RESET
+-----------------*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*----------------
+    CONTAINERS
+-----------------*/
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+/*----------------
+    GENERAL
+-----------------*/
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+[class*="col-"] {
+    flex: 0 0 auto;
+}
+

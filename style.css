@@ -1,0 +1,12 @@
+.box {
+    background-color:#006CFA ;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #fff;
+}
+
+.box .box {
+    background-color:#00E165;
+    border: 1px solid #006CFA;
+}
